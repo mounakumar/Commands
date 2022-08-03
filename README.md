@@ -4,3 +4,4 @@ ls
 pwd
 cd
 mkdir
+cd ../
