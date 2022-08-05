@@ -8,3 +8,7 @@ cd ../
 ls -a
 
 ls -lh
+
+ls -l
+ls -S
+
