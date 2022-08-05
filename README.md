@@ -6,3 +6,5 @@ cd
 mkdir
 cd ../
 ls -a
+
+ls -lh
