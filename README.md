@@ -5,3 +5,4 @@ pwd
 cd
 mkdir
 cd ../
+ls -a
